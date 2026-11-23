@@ -1,0 +1,33 @@
+div {
+    background-color: red;
+    width: 600px;
+    height: 200px;
+}
+
+h1 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+input{
+    width: 40%;
+    height: 20%;
+}
+
+li {
+    color: gray;
+    font-size: 18px;
+}
+span {
+    color: blue;
+    font-weight: bold;
+}
+.Faltante {
+    color: red;
+    text-decoration: underline;
+}
+#Ingredientesecreto {
+    color: green;
+    font-style: italic;
+}

@@ -1,0 +1,17 @@
+p {
+    color:red;
+    font-size: 16px;
+    font-family:  Arial, sans-serif;
+    font-weight: bold;
+    font-style : italic;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-transform: none;
+}
+.custom-font {
+    font-family: "PressStart2P",sans-serif;
+    color:black;
+
+}
